@@ -133,11 +133,11 @@ In the `Dog` class, let's define our `#bark` instance method:
 ```ruby
 class Dog
   # Class body
-
-  # Instance Method Definition
-  def bark
+     def bark
     puts "Woof!"
   end
+  # Instance Method Definition
+  
 end
 ```
 
